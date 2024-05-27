@@ -1,5 +1,5 @@
 # 갤러리 프로젝트 동작 영상
-
+<img src="https://github.com/taein0926/Introduce_page/assets/136336372/907713bb-5628-4d9c-af86-430bc4bd8264">
 
 
 ## 고찰 및 결과
