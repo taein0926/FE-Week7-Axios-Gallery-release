@@ -100,6 +100,7 @@ const Content = () => {
             .then((res)=> {
                 setComment([...comment,res.data]);
                 setNewComment('');
+                window.location.reload();
             })
             .catch((e)=> {
                 console.log(e);
